@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PassCode">
+        <attr name="headerTextColor" format="color"/>
+        <attr name="keyPadTextColor" format="color"/>
+        <attr name="pressColor" format="color"/>
+        <attr name="normalColor" format="color"/>
+        <attr name="headerTextSize" format="dimension"/>
+        <attr name="keyPadTextSize" format="dimension"/>
+        <attr name="headerText" format="string" />
+        <attr name="codeBarColor" format="color"/>
+        <attr name="codeBarHeight" format="dimension"/>
+
+
+    </declare-styleable>
+</resources>

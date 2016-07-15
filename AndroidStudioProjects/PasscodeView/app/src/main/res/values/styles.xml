@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="Passcode">
+        <item name="headerText">Enter the new passcode</item>
+        <item name="headerTextColor">#ac5d5d</item>
+        <item name="headerTextSize">18sp</item>
+        <item name="keyPadTextColor">#2d7069</item>
+        <item name="keyPadTextSize">32sp</item>
+        <item name="codeBarHeight">10dp</item>
+        <item name="pressColor">#24412e</item>
+        <item name="normalColor">#56ae4c</item>
+    </style>
+
+</resources>
